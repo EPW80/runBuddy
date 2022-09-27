@@ -14,5 +14,5 @@ Building a website with HTML & CSS to fit a client mockup image. Work included:
 - [x] SEO + accessibility factors added: Meta Description, Meta Keywords, Title Tags, image alt text 
 
 ### Screenshot
-[](./assets/images/run.png)
-[](./assets/images/run2.png)
+![](./assets/images/run.png)
+![](./assets/images/run2.png)
