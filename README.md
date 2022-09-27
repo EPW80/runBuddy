@@ -1,5 +1,7 @@
 # Run-Buddy
 
+a responsive webpage for a personal training start-up using html and css. 
+
 ## Built With 🧰
 - HTML 
 - CSS
